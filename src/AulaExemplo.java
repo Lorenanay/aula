@@ -3,7 +3,7 @@ public class AulaExemplo {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Ricardo é chato");
+		System.out.println("Não sei fazer a calculadora :(");
 		double x=7;
 		double y=2;
 		double multiplicacao=x*y;
