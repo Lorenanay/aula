@@ -41,9 +41,25 @@ public class Minhacalculadora {
 		
 		if(requestCount == ERROR_MAX_REQUEST_LIMIT) {
 			return "Que bom, seu limite de request foi atigindo. Necessário adquirir mais requests. "
-					+ "Quantidade atual utilzada: " + MAX_REQUEST;
+					+ "Quantidade atual utilizada: " + MAX_REQUEST;
 		}
 		return " Quantidade atual de requests realizadas " + requestCount;
+		
+		
+		static double soma (double numero1, double numero2) {
+		double numero1= 2;
+		double numero2= 3;
+		
+		double auxSoma= numero1 + numero2;
+	
+		
+	    public class result soma{
+		
+		System.out.println(auxsoma);
+			
+		}
+		
+	
 	}
 
 }
