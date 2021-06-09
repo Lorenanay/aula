@@ -46,16 +46,18 @@ public class Minhacalculadora {
 		return " Quantidade atual de requests realizadas " + requestCount;
 		
 		
-		static double soma (double numero1, double numero2) {
+		static double soma {
+			
+		}
 		double numero1= 2;
 		double numero2= 3;
 		
 		double auxSoma= numero1 + numero2;
 	
 		
-	    public class result soma{
+	    class result {
 		
-		System.out.println(auxsoma);
+		System.out.println(auxSoma);
 			
 		}
 		
